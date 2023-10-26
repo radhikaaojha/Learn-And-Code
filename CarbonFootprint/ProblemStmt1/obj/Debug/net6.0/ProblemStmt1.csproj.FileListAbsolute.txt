@@ -1,0 +1,15 @@
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\bin\Debug\net6.0\ProblemStmt1.exe
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\bin\Debug\net6.0\ProblemStmt1.deps.json
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\bin\Debug\net6.0\ProblemStmt1.runtimeconfig.json
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\bin\Debug\net6.0\ProblemStmt1.dll
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\bin\Debug\net6.0\ProblemStmt1.pdb
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\ProblemStmt1.csproj.AssemblyReference.cache
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\ProblemStmt1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\ProblemStmt1.AssemblyInfoInputs.cache
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\ProblemStmt1.AssemblyInfo.cs
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\ProblemStmt1.csproj.CoreCompileInputs.cache
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\ProblemStmt1.dll
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\refint\ProblemStmt1.dll
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\ProblemStmt1.pdb
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\ProblemStmt1.genruntimeconfig.cache
+C:\Users\radhika.ojha.INTIMETEC\source\repos\CarbonFootprint\ProblemStmt1\obj\Debug\net6.0\ref\ProblemStmt1.dll
