@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProblemStmt1
+namespace ProblemStmt1.Models
 {
-    public class EmailInfoRequestModel
+    public class EmailInfoRequest
     {
         public string Email { get; set; }
         public int NoOfSpamEmails { get; set; }

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using ProblemStmt1.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -8,10 +9,6 @@ namespace ProblemStmt1
 {
     public static class CarbonFootprintForEmail
     {
-        public const double InboxEmailCO2EmissionPerG = 4;
-        public const double SentEmailCO2EmissionPerG = 0.2;
-        public const double SpamEmailCO2EmissionPerG = 0.3;
-
         public static string GetSource(string email)
         {
             int atIndex = email.IndexOf("@");
@@ -26,7 +23,7 @@ namespace ProblemStmt1
             return "Invalid email format";
         }
 
-        public static void DisplayCarbonFootprint(CarbonFootprintResponseModel carbonFootprint)
+        public static void DisplayCarbonFootprint(CarbonFootprintResponse carbonFootprint)
         {
             Console.WriteLine("Email: " + carbonFootprint.Email);
             Console.WriteLine("Source: " + carbonFootprint.Source);

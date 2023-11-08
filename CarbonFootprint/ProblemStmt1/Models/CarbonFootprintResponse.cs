@@ -4,9 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace ProblemStmt1
+namespace ProblemStmt1.Models
 {
-    public class CarbonFootprintResponseModel
+    public class CarbonFootprintResponse
     {
         public string Email { get; set; }
         public string Source { get; set; }

@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\radhika.ojha.INTIMETEC\\.nuget\\packages\\": {}
+    "C:\\Users\\radhika.ojha\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\radhika.ojha.INTIMETEC\\source\\repos\\CarbonFootprint\\ProblemStmt1\\ProblemStmt1.csproj",
+      "projectUniqueName": "D:\\L&C\\Learn-And-Code\\CarbonFootprint\\ProblemStmt1\\ProblemStmt1.csproj",
       "projectName": "ProblemStmt1",
-      "projectPath": "C:\\Users\\radhika.ojha.INTIMETEC\\source\\repos\\CarbonFootprint\\ProblemStmt1\\ProblemStmt1.csproj",
-      "packagesPath": "C:\\Users\\radhika.ojha.INTIMETEC\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\radhika.ojha.INTIMETEC\\source\\repos\\CarbonFootprint\\ProblemStmt1\\obj\\",
+      "projectPath": "D:\\L&C\\Learn-And-Code\\CarbonFootprint\\ProblemStmt1\\ProblemStmt1.csproj",
+      "packagesPath": "C:\\Users\\radhika.ojha\\.nuget\\packages\\",
+      "outputPath": "D:\\L&C\\Learn-And-Code\\CarbonFootprint\\ProblemStmt1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\radhika.ojha.INTIMETEC\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\radhika.ojha\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -61,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }
