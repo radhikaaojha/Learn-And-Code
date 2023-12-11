@@ -1,8 +1,12 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace Chapter2.ProblemStatement1
 {
-    public class DataHolder
+    public class UtilityClass
     {
         public int IntegerValue;
         public double DoubleValue;
@@ -18,20 +22,6 @@ namespace Chapter2.ProblemStatement1
         {
             StringValue = originalString.ToUpper();
             Console.WriteLine("Updated String: " + this.StringValue);
-        }
-    }
-
-    public class Problem1
-    {
-        public static void Main(string[] args)
-        {
-            DataHolder dataHolder = new DataHolder();
-            dataHolder.IntegerValue = 10;
-            dataHolder.DoubleValue = 20.5;
-            dataHolder.StringValue = "hello";
-
-            dataHolder.calculateAndPrintSum(dataHolder.IntegerValue, 5);
-            dataHolder.ConvertAndPrintUpperCaseString("world");
         }
     }
 }
