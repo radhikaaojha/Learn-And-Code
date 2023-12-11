@@ -6,13 +6,13 @@ namespace Chapter2.ProblemStatement1
     {
         public static void Main(string[] args)
         {
-            Utility dataHolder = new Utility();
-            dataHolder.IntegerValue = 10;
-            dataHolder.DoubleValue = 20.5;
-            dataHolder.StringValue = "hello";
+            DataProcessor dataProcessor = new DataProcessor();
+            dataProcessor.IntegerValue = 10;
+            dataProcessor.DoubleValue = 20.5;
+            dataProcessor.StringValue = "hello";
 
-            dataHolder.calculateAndPrintSum(dataHolder.IntegerValue, 5);
-            dataHolder.ConvertAndPrintUpperCaseString("world");
+            dataProcessor.calculateAndPrintSum(dataProcessor.IntegerValue, 5);
+            dataProcessor.ConvertAndPrintUpperCaseString("world");
         }
     }
 }
