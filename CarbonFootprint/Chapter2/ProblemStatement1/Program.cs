@@ -6,7 +6,7 @@ namespace Chapter2.ProblemStatement1
     {
         public static void Main(string[] args)
         {
-            UtilityClass dataHolder = new UtilityClass();
+            Utility dataHolder = new Utility();
             dataHolder.IntegerValue = 10;
             dataHolder.DoubleValue = 20.5;
             dataHolder.StringValue = "hello";

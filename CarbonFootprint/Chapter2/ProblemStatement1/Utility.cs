@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Chapter2.ProblemStatement1
 {
-    public class UtilityClass
+    public class Utility
     {
         public int IntegerValue;
         public double DoubleValue;

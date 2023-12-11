@@ -9,7 +9,7 @@ namespace Chapter2.ProblemStatement2
 
     class Program
     {
-        public static void Main(string[] p)
+        public static void Main(string[] args)
         {
             InventorySystem inventory = new InventorySystem();
 
