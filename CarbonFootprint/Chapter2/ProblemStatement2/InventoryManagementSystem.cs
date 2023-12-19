@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Chapter2.ProblemStatement2
 {
 
-    class Program
+    class InventoryManagementSystem
     {
         public static void Main(string[] args)
         {
